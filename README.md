@@ -1,2 +1,2 @@
 # selcuklu-YILMAZ.github.io
-web site
+[click here for the website](https://selcuk-yilmaz.github.io/)
