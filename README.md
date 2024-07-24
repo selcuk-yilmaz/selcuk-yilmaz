@@ -38,6 +38,11 @@ I prefer React  for web front-end development.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 
+## 📈 Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcuk-yilmaz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 ## :star2: My Projects:
 ## With React
@@ -59,11 +64,5 @@ I prefer React  for web front-end development.
 [add-your-duty](https://add-your-duty.netlify.app/)| React,Bootstrap,.get process from heroku API with Axios|![add-your-duty](https://user-images.githubusercontent.com/99830247/183735594-87817b56-ac7e-495c-9ae6-46d48c3e11b9.gif)|
 [react-website-with-router](https://react-website-with-router.netlify.app/)|React,Bootstrap,React router|![reactwebsite-withrouter](https://user-images.githubusercontent.com/99830247/184480306-393be250-3c53-4269-bbd7-5dcf05330fb7.gif)|
 
-
-## 📈 Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcuk-yilmaz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
