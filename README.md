@@ -18,7 +18,8 @@ I prefer React  for web front-end development.
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yilmaz-selcuk/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 -  You can reach me via email:yilmax4@gmail.com
-
+### Visitors Count
+<img align="left" src="https://profile-counter.glitch.me/selcuk-yilmaz/count.svg" alt="Loading">
 ## 🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
