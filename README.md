@@ -1,7 +1,7 @@
 ## Hi there 👋  Selçuk is here...
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yilmaz-selcuk/) 
-<a href="https://selcuk-yilmaz.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=selcuk-yilmaz" alt="visitor counter"/>
+<a href="https://selcuk-yilmaz.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> 
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠     
@@ -18,10 +18,12 @@ I prefer React  for web front-end development.
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yilmaz-selcuk/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 -  You can reach me via email:yilmax4@gmail.com
+-  <img src="https://komarev.com/ghpvc/?username=selcuk-yilmaz" alt="visitor counter"/>
 ### Visitors Count
 <img align="left" src="https://profile-counter.glitch.me/selcuk-yilmaz/count.svg" alt="Loading">
 <br/>
-## 🚀 Skills
+<a href="https://app.daily.dev/selcukfrontenddev"><img src="https://api.daily.dev/devcards/v2/xL6Vb9Nmg96nFEnycbi0d.png?type=wide&r=ddj" width="652" alt="Selçuk Yılmaz's Dev Card"/></a>
+### 🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
