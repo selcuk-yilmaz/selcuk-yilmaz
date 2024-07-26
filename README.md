@@ -23,7 +23,8 @@ I prefer React  for web front-end development.
 <img align="left" src="https://profile-counter.glitch.me/selcuk-yilmaz/count.svg" alt="Loading">
 <br/>
 <a href="https://app.daily.dev/selcukfrontenddev"><img src="https://api.daily.dev/devcards/v2/xL6Vb9Nmg96nFEnycbi0d.png?type=wide&r=ddj" width="652" alt="Selçuk Yılmaz's Dev Card"/></a>
-### 🚀 Skills
+<br/>
+🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
