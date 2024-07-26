@@ -20,6 +20,7 @@ I prefer React  for web front-end development.
 -  You can reach me via email:yilmax4@gmail.com
 ### Visitors Count
 <img align="left" src="https://profile-counter.glitch.me/selcuk-yilmaz/count.svg" alt="Loading">
+<br/>
 ## 🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
